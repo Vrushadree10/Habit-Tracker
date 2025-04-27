@@ -15,18 +15,6 @@ A minimalist habit tracker built with HTML, CSS, and JavaScript. Includes a ligh
 
 ---
 
-## 📸 Preview
-
-![habit-tracker-preview](preview.png) <!-- Optional if you add a screenshot -->
-
----
-
-## 🚀 Demo
-
-Check it out live: [Your GitHub Pages Link Here](https://your-username.github.io/habit-tracker)
-
----
-
 ## 🛠️ How to Use
 
 1. Clone the repository:
