@@ -15,6 +15,9 @@ A minimalist habit tracker built with HTML, CSS, and JavaScript. Includes a ligh
 
 ---
 
+##Link:
+ https://vrushadree10.github.io/Habit-Tracker/
+
 ## 🛠️ How to Use
 
 1. Clone the repository:
