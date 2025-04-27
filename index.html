@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Habit Tracker</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <div id="login-screen">
+    <h2>Login</h2>
+    <input type="text" id="username" placeholder="Enter your name"/>
+    <button onclick="login()">Login</button>
+  </div>
+
+  <div id="app" style="display: none;">
+    <h2>Hello, <span id="user"></span> 👋</h2>
+    <input type="text" id="habitInput" placeholder="New habit..." />
+    <button onclick="addHabit()">Add Habit</button>
+    <ul id="habitList"></ul>
+    <button onclick="logout()">Logout</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
